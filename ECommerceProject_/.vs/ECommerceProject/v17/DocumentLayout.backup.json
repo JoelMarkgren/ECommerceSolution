@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jomr\\repos\\ECommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\services\\cellphoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\ecommerceproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:ecommerceproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\controllers\\cellphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerceDB/True/SqlTable/dbo.Cellphones.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\views\\cellphone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\data\\repos\\cellphonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:data\\repos\\cellphonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\views\\cellphone\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\data\\interfaces\\icellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:data\\interfaces\\icellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\controllers\\cellphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:controllers\\cellphonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\models\\cellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:models\\cellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerceDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jomr\\AppData\\Roaming\\Microsoft\\UserSecrets\\0cb2c556-1dcd-4bd3-baf4-9d3b7a604a81\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Models\\Cellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\migrations\\20241001131126_cellphone table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:migrations\\20241001131126_cellphone table added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\migrations\\20240930082843_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:migrations\\20240930082843_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\migrations\\20240930132244_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:migrations\\20240930132244_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\migrations\\20240930121230_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:migrations\\20240930121230_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\migrations\\20240930115949_newinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:migrations\\20240930115949_newinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|c:\\users\\jomr\\repos\\ecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9365EF1-5306-49E4-8391-C4BA7B7BEAF9}|ECommerceProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\services\\interfaces\\icellphoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\models\\cellphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C54CB5-94B0-421F-AFA0-630C56171874}|..\\ECommerceMVC\\ECommerceMVC.csproj|c:\\users\\jomr\\repos\\ecommercemvc\\ecommercemvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:10:45.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:12:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CellphoneController.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Controllers\\CellphoneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CellphoneController.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Controllers\\CellphoneController.cs",
+              "RelativeToolTip": "Controllers\\CellphoneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:27:20.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:09:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICellphone.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Data\\Interfaces\\ICellphone.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\ICellphone.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Data\\Interfaces\\ICellphone.cs",
+              "RelativeToolTip": "Data\\Interfaces\\ICellphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:19:35.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CellphoneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Data\\Repos\\CellphoneRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repos\\CellphoneRepository.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Data\\Repos\\CellphoneRepository.cs",
+              "RelativeToolTip": "Data\\Repos\\CellphoneRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:25:30.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Cellphones.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerceDB/True/SqlTable/dbo.Cellphones.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerceDB/True/SqlTable/dbo.Cellphones.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-02T09:04:26.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "RelativeToolTip": "..\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:56:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Views\\Cellphone\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Views\\Cellphone\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Views\\Cellphone\\Create.cshtml",
+              "RelativeToolTip": "..\\ECommerceMVC\\Views\\Cellphone\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:22:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CellphoneService.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Services\\CellphoneService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Services\\CellphoneService.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Services\\CellphoneService.cs",
+              "RelativeToolTip": "..\\ECommerceMVC\\Services\\CellphoneService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:40:58.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CellphoneController.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "RelativeToolTip": "..\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:40:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ECommerceMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:20:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "..\\ECommerceMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:09:56.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ECommerceProject.csproj",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\ECommerceProject.csproj",
+              "RelativeDocumentMoniker": "ECommerceProject.csproj",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\ECommerceProject.csproj",
+              "RelativeToolTip": "ECommerceProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T07:18:45.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\source\\repos\\ECommerceMVC\\Views\\Cellphone\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T07:15:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240930121230_seedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930121230_seedRoles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930121230_seedRoles.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930121230_seedRoles.cs",
+              "RelativeToolTip": "Migrations\\20240930121230_seedRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:12:30.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240930132244_new.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930132244_new.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930132244_new.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930132244_new.cs",
+              "RelativeToolTip": "Migrations\\20240930132244_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:22:44.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240930082843_init.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930082843_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930082843_init.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930082843_init.cs",
+              "RelativeToolTip": "Migrations\\20240930082843_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:28:43.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:11:54.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cellphone.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Models\\Cellphone.cs",
+              "RelativeDocumentMoniker": "Models\\Cellphone.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Models\\Cellphone.cs",
+              "RelativeToolTip": "Models\\Cellphone.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:01:09.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CellphoneController.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "ToolTip": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\ECommerceMVC\\Controllers\\CellphoneController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:01:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241001131126_cellphone table added.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20241001131126_cellphone table added.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241001131126_cellphone table added.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20241001131126_cellphone table added.cs",
+              "RelativeToolTip": "Migrations\\20241001131126_cellphone table added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:11:26.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240930115949_newInit.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930115949_newInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240930115949_newInit.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Migrations\\20240930115949_newInit.cs",
+              "RelativeToolTip": "Migrations\\20240930115949_newInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:59:49.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICellphoneService.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Services\\Interfaces\\ICellphoneService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Services\\Interfaces\\ICellphoneService.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Services\\Interfaces\\ICellphoneService.cs",
+              "RelativeToolTip": "..\\ECommerceMVC\\Services\\Interfaces\\ICellphoneService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:42:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cellphone.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Models\\Cellphone.cs",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\Models\\Cellphone.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\Models\\Cellphone.cs",
+              "RelativeToolTip": "..\\ECommerceMVC\\Models\\Cellphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:30:34.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ECommerceMVC",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceMVC\\ECommerceMVC.csproj",
+              "RelativeDocumentMoniker": "..\\ECommerceMVC\\ECommerceMVC.csproj",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceMVC\\ECommerceMVC.csproj",
+              "RelativeToolTip": "..\\ECommerceMVC\\ECommerceMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T12:10:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cellphone.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Models\\Cellphone.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\ECommerceMVC\\Models\\Cellphone.cs",
+              "ToolTip": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Models\\Cellphone.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\ECommerceMVC\\Models\\Cellphone.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:55.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerceDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ECommerceDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-30T10:42:00.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:14:24.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:18:01.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\ECommerceMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jomr\\source\\repos\\ECommerceMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\source\\repos\\ECommerceMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T07:13:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\Dto\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\Dto\\LoginUserDto.cs",
+              "RelativeToolTip": "Dto\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:00:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\jomr\\AppData\\Roaming\\Microsoft\\UserSecrets\\0cb2c556-1dcd-4bd3-baf4-9d3b7a604a81\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0cb2c556-1dcd-4bd3-baf4-9d3b7a604a81\\secrets.json",
+              "ToolTip": "C:\\Users\\jomr\\AppData\\Roaming\\Microsoft\\UserSecrets\\0cb2c556-1dcd-4bd3-baf4-9d3b7a604a81\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\0cb2c556-1dcd-4bd3-baf4-9d3b7a604a81\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:51:41.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jomr\\repos\\ECommerceProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jomr\\repos\\ECommerceProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:24:04.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
