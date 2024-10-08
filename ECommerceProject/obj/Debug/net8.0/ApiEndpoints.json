@@ -53,7 +53,7 @@
   },
   {
     "ContainingType": "ECommerceProject.Controllers.CellphoneController",
-    "Method": "Get",
+    "Method": "GetByIdAsync",
     "RelativePath": "api/Cellphone/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -65,17 +65,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "ECommerceProject.Controllers.CellphoneController",
@@ -93,28 +83,6 @@
       {
         "Name": "value",
         "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "ECommerceProject.Controllers.CellphoneController",
-    "Method": "Delete",
-    "RelativePath": "api/Cellphone/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -147,6 +115,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "ECommerceProject.Controllers.CellphoneController",
+    "Method": "Delete",
+    "RelativePath": "api/Cellphone/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "ECommerceProject.Controllers.WeatherForecastController",

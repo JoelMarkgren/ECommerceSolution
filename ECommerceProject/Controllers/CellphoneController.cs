@@ -10,9 +10,9 @@ namespace ECommerceProject.Controllers
     [ApiController]
     public class CellphoneController : ControllerBase
     {
-        private readonly ICellphone cellphoneRep;
+        private readonly ICellphoneRepository cellphoneRep;
 
-        public CellphoneController(ICellphone cellphoneRep)
+        public CellphoneController(ICellphoneRepository cellphoneRep)
         {
             this.cellphoneRep = cellphoneRep;
         }
@@ -25,14 +25,19 @@ namespace ECommerceProject.Controllers
 
         // GET api/<CellphoneController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> GetByIdAsync(int id)
         {
-            return "value";
+            var cellphone = await cellphoneRep.GetByIdAsync(id);
+            if (cellphone == null)
+            {
+                return NotFound();
+            }
+            return Ok(cellphone);
         }
 
         // POST api/<CellphoneController>
         [HttpPost("create")]
-        public async void Post([FromBody] Cellphone cellphone)
+        public async Task Post([FromBody] Cellphone cellphone)
         {
             await cellphoneRep.CreateAsync(cellphone);
         }
@@ -43,10 +48,17 @@ namespace ECommerceProject.Controllers
         {
         }
 
-        // DELETE api/<CellphoneController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        
+        [HttpDelete("delete/{id}")]
+        public async Task<IActionResult> Delete(int id)
         {
+            var cellphone = await cellphoneRep.GetByIdAsync(id);
+            if (cellphone == null)
+            {
+                return NotFound();
+            }
+            await cellphoneRep.DeleteAsync(id);
+            return NoContent();
         }
     }
 }

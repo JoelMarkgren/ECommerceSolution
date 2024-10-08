@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uro6uXLFTzI=",
+  "dgSpecHash": "0A8YuuKnN4g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jomr\\repos\\ECommerceMVC\\ECommerceMVC.csproj",
+  "projectFilePath": "C:\\Users\\jomr\\Source\\Repos\\ECommerceSolution\\ECommerceMVC\\ECommerceMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jomr\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\jomr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

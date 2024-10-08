@@ -48,7 +48,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContextPool<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddScoped<ICellphone, CellphoneRepository>();
+builder.Services.AddScoped<ICellphoneRepository, CellphoneRepository>();
 
 //CORS
 builder.Services.AddCors(options =>

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceProject.Data.Repos
 {
-    public class CellphoneRepository : ICellphone
+    public class CellphoneRepository : ICellphoneRepository
     {
         private readonly ApplicationDbContext applicationDbContext;
 
@@ -14,11 +14,15 @@ namespace ECommerceProject.Data.Repos
         {
             this.applicationDbContext = applicationDbContext;
         }
-        public async Task<Cellphone> CreateAsync(Cellphone cellphone)
+        public async Task CreateAsync(Cellphone cellphone)
         {
+            if (cellphone == null)
+            {
+                throw new ArgumentNullException(nameof(cellphone), "Cellphone object cannot be null");
+            }
             await applicationDbContext.Cellphones.AddAsync(cellphone);
             await applicationDbContext.SaveChangesAsync();
-            return cellphone;
+            
         }
 
         public async Task DeleteAsync(int id)
@@ -33,9 +37,9 @@ namespace ECommerceProject.Data.Repos
             throw new NotImplementedException();
         }
 
-        public Task<Cellphone> GetByIdAsync(int id)
+        public async Task<Cellphone> GetByIdAsync(int id)
         {
-            return applicationDbContext.Cellphones.FirstOrDefaultAsync(x => x.Id == id);
+            return await applicationDbContext.Cellphones.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<IEnumerable<Cellphone>> GetAllAsync()
