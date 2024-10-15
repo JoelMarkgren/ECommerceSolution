@@ -1,5 +1,6 @@
 ﻿using ECommerceMVC.Models;
 using ECommerceMVC.Services.Interfaces;
+using ECommerceProject.Dto;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.ResponseCompression;
 using Microsoft.Extensions.Diagnostics.HealthChecks;
@@ -72,7 +73,7 @@ namespace ECommerceMVC.Services
                 var response = await httpClient.DeleteAsync($"api/cellphone/delete/{id}");
                 if (!response.IsSuccessStatusCode)
                 {
-                    // Log or inspect the error
+  
                     var content = await response.Content.ReadAsStringAsync();
                     throw new Exception($"Error deleting cellphone: {content}");
                 }

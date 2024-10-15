@@ -1,4 +1,5 @@
 ﻿using ECommerceMVC.Models;
+using ECommerceProject.Dto;
 
 namespace ECommerceMVC.Services.Interfaces
 {

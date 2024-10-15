@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerceMVC.Controllers
 {
+
     public class CellPhoneController : Controller
     {
         private readonly ICellphoneService cellphoneService;
@@ -46,7 +47,8 @@ namespace ECommerceMVC.Controllers
             }
             return View(cellphone);
         }
-        public async Task<ActionResult> Delete(int id)
+        [HttpGet]
+        public async Task<ActionResult> GetDeletePage(int id)
         {
             var cellphone = await cellphoneService.GetByIdAsync(id);
             if (cellphone == null)
@@ -59,7 +61,6 @@ namespace ECommerceMVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            
             await cellphoneService.DeleteAsync(id);
             return RedirectToAction(nameof(Index));
         }

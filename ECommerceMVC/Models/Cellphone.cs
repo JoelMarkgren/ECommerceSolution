@@ -6,12 +6,15 @@ namespace ECommerceMVC.Models
     public class Cellphone
     {
         [Key]
-        [Required]
         public int Id { get; set; }
-        public string? Description { get; set; }
+        [Required]
+        public string? Color { get; set; }
+        [Required]
         public string Name { get; set; }
-        public string Manufacturer { get; set; }
+        [Required]
         public string Brand { get; set; }
+        [Required]
         public int Price { get; set; }
+        public string? Image { get; set; }
     }
 }
